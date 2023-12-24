@@ -51,7 +51,7 @@ const BLOG = {
       repo: ''
     },
     cusdisConfig: {
-      appId: 'data-app-id="8d5e825c-8d5d-4ca1-b1d3-b73b66d8d99f"', // data-app-id
+      appId: '8d5e825c-8d5d-4ca1-b1d3-b73b66d8d99f', // data-app-id
       host: 'https://cusdis.com', // data-host, change this if you're using self-hosted version
       scriptSrc: 'https://cusdis.com/js/cusdis.es.js' // change this if you're using self-hosted version
     }
