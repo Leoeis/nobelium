@@ -254,3 +254,10 @@ css
   background-color: #222;
   color: #fff;
 }
+html
+<button class="toggle-button">切换黑白模式</button>
+javascript
+const toggleButton = document.querySelector('.toggle-button');
+toggleButton.addEventListener('click', function () {
+  document.documentElement.classList.toggle('dark-mode');
+});
